@@ -21,7 +21,7 @@ public class SortRoutines {
 	 * @param args
 	 */
 	public static int[] numArray;
-	public static int sizeArray = 20;
+	public static int sizeArray = 30;
 
 	public static void main(String[] args) {
 
